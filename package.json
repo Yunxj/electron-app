@@ -1,0 +1,15 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "## electron桌面应用核心",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "owen",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.4.0",
+    "nodemon": "^3.1.4"
+  }
+}
